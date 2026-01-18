@@ -1,0 +1,5 @@
+name: "First Custom JS Action"
+description: "Running Custom JS Action."
+runs:
+  using: 'node24'
+  main: 'main.js'
